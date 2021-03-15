@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zxj.screenadjust"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:name="com.zxj.screenadjust.MyApp"
+12-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:6:9-30
+13        android:allowBackup="true"
+13-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.3.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.ScreenAdjust" >
+22-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:12:9-50
+23        <meta-data
+23-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:13:9-15:35
+24            android:name="design_width_in_dp"
+24-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:14:13-46
+25            android:value="360" />
+25-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:15:13-32
+26
+27        <activity android:name="com.zxj.screenadjust.MainActivity" >
+27-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:16:9-22:20
+27-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:16:19-47
+28            <intent-filter>
+28-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:17:13-21:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:18:17-69
+29-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:18:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:20:17-77
+31-->D:\ziliao\develop\ScreenAdjust\app\src\main\AndroidManifest.xml:20:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

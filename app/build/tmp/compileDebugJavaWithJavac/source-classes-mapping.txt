@@ -1,0 +1,10 @@
+com/zxj/screenadjust/BuildConfig.java
+ com.zxj.screenadjust.BuildConfig
+com/zxj/screenadjust/MyApp.java
+ com.zxj.screenadjust.MyApp
+com/zxj/screenadjust/MainActivity.java
+ com.zxj.screenadjust.MainActivity
+com/zxj/screenadjust/DensityAdjust.java
+ com.zxj.screenadjust.DensityAdjust
+com/zxj/screenadjust/ScreenAdjust.java
+ com.zxj.screenadjust.ScreenAdjust
